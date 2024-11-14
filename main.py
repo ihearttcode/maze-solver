@@ -4,8 +4,8 @@ import sys
 
 
 def main():
-    num_rows = 12
-    num_cols = 16
+    num_rows = 24
+    num_cols = 32
     margin = 50
     screen_x = 1000
     screen_y = 800
